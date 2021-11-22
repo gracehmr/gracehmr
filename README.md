@@ -1,6 +1,4 @@
-Hi ✨ my name is Grace
-
-I'm currently learning ✨ all things coding ✨
-
-A fun fact about me is that I can count to ten in Māori
-
+Junior Software Developer
+Learning all things coding
+Can also be found reading Fantasy novels
+🌙
